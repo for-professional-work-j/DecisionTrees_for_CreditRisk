@@ -13,3 +13,5 @@ While currently working through Introduction to Machine Learning with Python by 
 Therefore, this notebook will aim to compare Random Forest (RF) and Gradient Boosting (GB) models to predict the likelihood of default on credit card payments. The goal is not only to evaluate which model performs better in terms of accuracy and F1-score, but also to examine their interpretability, generalization behavior, and how each model responds to different data treatments such as SMOTE and PCA.
 
 Any constructive criticism, input on my methods or what can be improved is definitely welcomed as I start my foray into the world of machine learning.
+
+Note : I would advise you to open this in Colab as some outputs did not render properly when I saved a copy of the notebook into GitHub.
